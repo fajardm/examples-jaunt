@@ -12,5 +12,5 @@
 hs_err_pid*
 
 # Idea
-/.idea
-/out
+.idea
+out

@@ -1,10 +1,9 @@
-/**
- * Created by fajardm on 01/05/17.
- */
-
 import com.jaunt.JauntException;
 import com.jaunt.UserAgent;
 
+/**
+ * Created by fajardm on 01/05/17.
+ */
 public class Example1 {
     public static void main(String[] args) {
         try {
